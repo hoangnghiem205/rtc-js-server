@@ -1,0 +1,5 @@
+vn/ows/rtcjs/model/Call.class
+vn/ows/rtcjs/manager/UserManager.class
+vn/ows/rtcjs/manager/CallManager.class
+vn/ows/rtcjs/model/User.class
+vn/ows/rtcjs/server/CallServer.class
